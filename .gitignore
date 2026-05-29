@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+ETHUSDT_1m_2021_2024.csv
+*.parquet
+*.pkl
+*.log
